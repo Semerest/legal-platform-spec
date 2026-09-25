@@ -31,6 +31,9 @@ Use Mermaid for visual models, split by master process, detailed processes, ERD,
 ## Unknowns
 When a business rule is unknown, add it as [?] to `gaps/open-questions.md` instead of inventing an answer. Do not remove confirmed information during refactoring without explicit reason.
 
+## Project memory
+`ai-docs/SESSION_LOG.md` is this repository's own chronological AI/project history. It is never synchronized from ai-workflow-core. Keep specification discussions here and do not mix them with other projects.
+
 ## Security
 Do not store real client personal data, client documents, passwords, tokens, API keys or other secrets in this repository.
 
